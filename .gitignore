@@ -2,4 +2,7 @@ gitimage.png
 PracticeFolder/
 process-todo.txt
 
-Data-Science-Fundamentals-Project/COVID-19-Global-Impact-Analysis-Dashboard/data/
+#-- Ignore all the data files
+Data-Science-Fundamentals-Project/1.1-Basic-Analysis/data/
+
+Data-Science-Fundamentals-Project/1.2-COVID-19-Global-Impact-Analysis-Dashboard/data/
